@@ -4,11 +4,11 @@
 
 ## 🔭 A bit about me
 
-🎓 Graduated in Physics 
-🌱 Technology lover who recharges in nature 
+🎓 Graduated in Physics  
+🌱 Technology lover who recharges in nature  
 📚 Passionate about learning and teaching  
-🔎 Obsessed with understanding how things really work   
-🎸 Terrible acustic guitar player — but still trying  
+🔎 Obsessed with understanding how things really work  
+🎸 Terrible acoustic guitar player — but still trying
 
 I see the world through systems, patterns, and first principles.
 
